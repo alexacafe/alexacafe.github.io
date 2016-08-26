@@ -3,16 +3,16 @@ body {
 	font-family: 'Pacifico', cursive;
 }
 #header {
-	background-color: #ACECF7;
+	background-color: #87CCD8;
 	width: 100%;
 	margin: -20px -20px 0px;
 	color: white;
 }
 #footer {
-	background-color: #ACECF7;
+	background-color: #87CCD8;
 	width: 100%;
 	margin: 0px -20px;
-	color: #FFABC1;
+	color: #ffa7be;
 	font-family: 'Josefin Slab', serif;
 }
 div {
@@ -21,7 +21,7 @@ div {
 }
 .student-box {
 	position: relative;
-	background-color: #FFABC1;
+	background-color: #ffa7be;
 }
 .student-content {
 	position: absolute;
@@ -42,11 +42,11 @@ h1 {
     1px -1px 0 #fff,
     -1px 1px 0 #fff,
     1px 1px 0 #fff; 
-    color: #FFABC1;
+    color: #ffa7be;
 }
 a {
 	text-decoration: none;
-	color: #FFABC1;
+	color: #ffa7be;
 }
 #header h3 {
 	margin-top: -20px;
