@@ -6,14 +6,13 @@ body {
 	background-color: #ACECF7;
 	width: 100%;
 	margin: -20px -20px 0px;
-	
 }
 #footer {
 	background-color: #ACECF7;
 	width: 100%;
 	margin: 0px -20px;
-	color: #F4989C;
-	font-family: 'Open Sans', sans-serif;
+	color: #FFABC1;
+	font-family: 'Josefin Slab', serif;
 }
 div {
 	display: inline-block;
@@ -21,8 +20,7 @@ div {
 }
 .student-box {
 	position: relative;
-	background-color: #F4989C;
-	
+	background-color: #FFABC1;
 }
 .student-content {
 	position: absolute;
@@ -36,10 +34,6 @@ div {
 .student-box h1 {
 	visibility: hidden;
 }
-.resources {
-	padding: 15px;
-	margin: 0px 20px;
-}
 h1 {
 	font-size: 48px;
 	text-shadow:
@@ -47,16 +41,16 @@ h1 {
     1px -1px 0 #fff,
     -1px 1px 0 #fff,
     1px 1px 0 #fff; 
-    color: #F4989C;
+    color: #FFABC1;
 }
 a {
 	text-decoration: none;
-	color: #F4989C;
+	color: #FFABC1;
 }
 #header h3 {
 	margin-top: -20px;
-	font-family: 'Open Sans', sans-serif;
-	color: #F4989C;
+	font-family: 'Josefin Slab', serif;
+	color: #FFABC1;
 }
 h2 {
 	margin-bottom: -20px;
